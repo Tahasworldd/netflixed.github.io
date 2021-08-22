@@ -1,0 +1,241 @@
+
+<body>
+    <section class="container">
+        <div class="head">
+            <img src="assets/netflix logo.png" alt="">
+        </div>
+    </section>
+      <div>
+        <h3 style="color: #fff;">Netflix Original</h3>
+        <div class="tr">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                alt="Frozen" width="180">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                alt="Frozen" width="180">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                alt="Frozen" width="180">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                alt="Frozen" width="180">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                alt="Frozen" width="180">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                alt="Frozen" width="180">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                alt="Frozen" width="180">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                alt="Frozen" width="180">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                alt="Frozen" width="180">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                alt="Frozen" width="180">
+
+        </div>
+
+
+        <div>
+            <h3 style="color: #fff;">Netflix Tops</h3>
+            <div class="no">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                    alt="Frozen" width="180">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                    alt="Frozen" width="180">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                    alt="Frozen" width="180">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                    alt="Frozen" width="180">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                    alt="Frozen" width="180">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                    alt="Frozen" width="180">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                    alt="Frozen" width="180">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                    alt="Frozen" width="180">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                    alt="Frozen" width="180">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                    alt="Frozen" width="180">
+
+            </div>
+
+
+            <div>
+                <h3 style="color: #fff;">Romantic Movies</h3>
+                <div class="no">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                        alt="Frozen" width="180">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                        alt="Frozen" width="180">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                        alt="Frozen" width="180">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                        alt="Frozen" width="180">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                        alt="Frozen" width="180">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                        alt="Frozen" width="180">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                        alt="Frozen" width="180">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                        alt="Frozen" width="180">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                        alt="Frozen" width="180">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                        alt="Frozen" width="180">
+
+                </div>
+
+
+                <div>
+                    <h3 style="color: #fff;">Horror Movies</h3>
+                    <div class="no">
+                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                            alt="Frozen" width="180">
+                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                            alt="Frozen" width="180">
+                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                            alt="Frozen" width="180">
+                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                            alt="Frozen" width="180">
+                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                            alt="Frozen" width="180">
+                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                            alt="Frozen" width="180">
+                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                            alt="Frozen" width="180">
+                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                            alt="Frozen" width="180">
+                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                            alt="Frozen" width="180">
+                        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                            alt="Frozen" width="180">
+
+                    </div>
+
+
+                    <div>
+                        <h3 style="color: #fff;">Comedy Movies</h3>
+                        <div class="no">
+                            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                                alt="Frozen" width="180">
+                            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                                alt="Frozen" width="180">
+                            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                                alt="Frozen" width="180">
+                            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                                alt="Frozen" width="180">
+                            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                                alt="Frozen" width="180">
+                            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                                alt="Frozen" width="180">
+                            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                                alt="Frozen" width="180">
+                            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                                alt="Frozen" width="180">
+                            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                                alt="Frozen" width="180">
+                            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                                alt="Frozen" width="180">
+
+                        </div>
+
+
+                        <div>
+                            <h3 style="color: #fff;">Bollywood Movies</h3>
+                            <div class="no">
+                                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                                    alt="Frozen" width="180">
+                                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                                    alt="Frozen" width="180">
+                                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                                    alt="Frozen" width="180">
+                                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                                    alt="Frozen" width="180">
+                                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                                    alt="Frozen" width="180">
+                                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                                    alt="Frozen" width="180">
+                                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                                    alt="Frozen" width="180">
+                                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                                    alt="Frozen" width="180">
+                                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Frozen_%282013_film%29_poster.jpg/220px-Frozen_%282013_film%29_poster.jpg"
+                                    alt="Frozen" width="180">
+                                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Raya_and_the_Last_Dragon.png/220px-Raya_and_the_Last_Dragon.png"
+                                    alt="Frozen" width="180">
+
+                            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            *{
+    margin: 0;
+    padding: 0;
+    /* background-color: black; */
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+
+.container .head {
+    position: absolute;
+    top: 10;
+    left: 10;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    padding: 0px 50px;
+    z-index: 1000000;
+    
+}
+
+.container .head img{
+    width: 13%;
+}
+.tr{
+    display: flex;
+    overflow-y: hidden;
+}
+.tr img{
+    margin: 5px;
+}
+html{
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar{
+    width: opx;
+    background: transparent;
+}
+
+
+.no img{
+    width: 150;
+}
